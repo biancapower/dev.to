@@ -1,0 +1,10 @@
+/***************** 
+1. remove .temp from this file name, the file will then be gitignored to protect your API keys
+2. replace the apiKey with your API key
+3. remove these lines of comments
+*****************/
+{
+  "apiKey": "YOUR_DEV.TO_API_KEY",
+  "templateFolder": "name-of-your-blog-post",
+  "targetFolder": "./blog-posts"
+}
